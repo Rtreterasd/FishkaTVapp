@@ -30,21 +30,22 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="screenshots/1.png" alt="Скриншот 1" width="100%">
+      <img src="src/screenshots/1.png" alt="Скриншот 1" width="100%">
     </td>
     <td width="50%" align="center">
-      <img src="screenshots/2.png" alt="Скриншот 2" width="100%">
+      <img src="src/screenshots/2.png" alt="Скриншот 2" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="screenshots/3.png" alt="Скриншот 3" width="100%">
+      <img src="src/screenshots/3.png" alt="Скриншот 3" width="100%">
     </td>
     <td width="50%" align="center">
-      <img src="screenshots/4.png" alt="Скриншот 4" width="100%">
+      <img src="src/screenshots/4.png" alt="Скриншот 4" width="100%">
     </td>
   </tr>
 </table>
+
 
 ## Управление в плеере
 
