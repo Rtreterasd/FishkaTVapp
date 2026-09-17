@@ -1,6 +1,9 @@
 <div align="center">
 
-# Фишка TV
+<h1>
+  <img src="src/screenshots/fishka-tv-logo.png" alt="Логотип Фишка TV" width="56" valign="middle">
+  Фишка TV
+</h1>
 
 ### Удобный медиа-агрегатор для Windows
 
@@ -45,7 +48,6 @@
     </td>
   </tr>
 </table>
-
 
 ## Управление в плеере
 
