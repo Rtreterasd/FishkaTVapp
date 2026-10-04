@@ -16,15 +16,6 @@ Fishka TV объединяет каталог, поиск, карточки фи
 
 </div>
 
-## Скачать
-
-| Платформа | Версия | Файл |
-|---|:---:|---|
-| Windows 10/11, 64-bit | `1.1.9` | [Fishka-TV-Setup-1.1.9.exe](https://github.com/Rtreterasd/FishkaTVapp/releases/download/1.1.9/Fishka-TV-Setup-1.1.9.exe) |
-| Android TV 7.0 и новее, ARMv7/ARM64 | `0.9.63` | [Fishka-TV-0.9.63-universal-ARMv7-ARM64.apk](https://github.com/Rtreterasd/FishkaTVapp/releases/download/0.9.63/Fishka-TV-0.9.63-universal-ARMv7-ARM64.apk) |
-
-> Загружайте Fishka TV только из раздела [Releases](https://github.com/Rtreterasd/FishkaTVapp/releases) этого репозитория. Сборки с посторонних сайтов могут быть изменены и не поддерживаются разработчиком.
-
 ## Скриншоты
 
 <table>
