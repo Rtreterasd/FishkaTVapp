@@ -8,9 +8,6 @@
 ### Удобный медиа-агрегатор для Windows и Android TV
 
 Fishka TV объединяет каталог, поиск, карточки фильмов и сериалов, подключаемые внешние источники и удобный плеер в одном интерфейсе. Приложение не является видеохостингом и не продаёт доступ к контенту. 
-## Обратная связь
-
-Если вы обнаружили ошибку, перейдите в Telegram-сообщество [FishkaTVapp](https://t.me/FishkaTVapp), откройте раздел **Баг-репорты** и приложите описание проблемы, модель устройства, версию приложения и по возможности скриншот.
 
 [![Скачать для Windows](https://img.shields.io/badge/Скачать-Windows%201.1.9-24c8b1?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Rtreterasd/FishkaTVapp/releases/download/1.1.9/Fishka-TV-Setup-1.1.9.exe)
 [![Скачать для Android TV](https://img.shields.io/badge/Скачать-Android%20TV%200.9.63-6f5cff?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Rtreterasd/FishkaTVapp/releases/download/0.9.63/Fishka-TV-0.9.63-universal-ARMv7-ARM64.apk)
@@ -82,6 +79,10 @@ Fishka TV объединяет каталог, поиск, карточки фи
 - процессор ARMv7 или ARM64;
 - пульт с D-pad либо совместимый геймпад;
 - для 4K, HDR, Dolby Vision и многоканального звука требуются совместимые телевизор, устройство и декодеры.
+
+## Обратная связь
+
+Если вы обнаружили ошибку, перейдите в Telegram-сообщество [FishkaTVapp](https://t.me/FishkaTVapp), откройте раздел **Баг-репорты** и приложите описание проблемы, модель устройства, версию приложения и по возможности скриншот.
 
 ## Конфиденциальность и аккаунты
 
