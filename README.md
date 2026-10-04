@@ -16,7 +16,7 @@ Fishka TV объединяет каталог, поиск, карточки фи
 
 </div>
 
-## Скриншоты
+## Скриншоты Windows
 
 <table>
   <tr>
@@ -33,6 +33,27 @@ Fishka TV объединяет каталог, поиск, карточки фи
     </td>
     <td width="50%" align="center">
       <img src="src/screenshots/4.png" alt="Плеер Fishka TV" width="100%">
+    </td>
+  </tr>
+</table>
+
+## Скриншоты Android TV
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="src/screenshots/android-tv-1.png" alt="Главный экран Fishka TV на Android TV" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="src/screenshots/android-tv-2.png" alt="Каталог Fishka TV на Android TV" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="src/screenshots/android-tv-3.png" alt="Карточка фильма Fishka TV на Android TV" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="src/screenshots/android-tv-4.png" alt="Плеер Fishka TV на Android TV" width="100%">
     </td>
   </tr>
 </table>
