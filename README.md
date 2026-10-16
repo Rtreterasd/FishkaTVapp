@@ -9,8 +9,8 @@
 
 Fishka TV объединяет каталог, поиск, карточки фильмов и сериалов, подключаемые внешние источники и удобный плеер в одном интерфейсе. Приложение не является видеохостингом и не продаёт доступ к контенту. 
 
-[![Скачать для Windows](https://img.shields.io/badge/Скачать-Windows%201.1.9-24c8b1?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Rtreterasd/FishkaTVapp/releases/download/1.1.9/Fishka-TV-Setup-1.1.9.exe)
-[![Скачать для Android TV](https://img.shields.io/badge/Скачать-Android%20TV%20f5cff?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Rtreterasd/FishkaTVapp/releases/download/1.0.12/Fishka-TV-1.0.12-ARMv7-ARM64.apk)
+[![Скачать Windows Release](https://img.shields.io/badge/Скачать-Windows%20Release-24c8b1?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Rtreterasd/FishkaTVapp/releases/download/1.1.9/Fishka-TV-Setup-1.1.9.exe)
+[![Скачать Android TV Release](https://img.shields.io/badge/Скачать-Android%20TV%20Release-f5cff?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Rtreterasd/FishkaTVapp/releases/download/1.0.12/Fishka-TV-1.0.12-ARMv7-ARM64.apk)
 
 [Все версии и описание релизов](https://github.com/Rtreterasd/FishkaTVapp/releases)
 
@@ -72,8 +72,6 @@ Fishka TV объединяет каталог, поиск, карточки фи
 - работа с торрент-раздачами через встроенный или внешний TorrServer после самостоятельной настройки поискового API;
 - управление мышью, клавиатурой, пультом и геймпадом;
 - адаптивный интерфейс для монитора, телефона и телевизора.
-
-
 
 ## Управление
 
@@ -159,7 +157,6 @@ Fishka TV использует сторонние программные ком�
 4. требуемое действие.
 
 После проверки разработчик может удалить или изменить элементы, находящиеся под его контролем. Контент на стороннем ресурсе может удалить только владелец или оператор этого ресурса.
-
 
 <div align="center">
 
