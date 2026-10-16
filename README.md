@@ -10,7 +10,7 @@
 Fishka TV объединяет каталог, поиск, карточки фильмов и сериалов, подключаемые внешние источники и удобный плеер в одном интерфейсе. Приложение не является видеохостингом и не продаёт доступ к контенту. 
 
 [![Скачать для Windows](https://img.shields.io/badge/Скачать-Windows%201.1.9-24c8b1?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Rtreterasd/FishkaTVapp/releases/download/1.1.9/Fishka-TV-Setup-1.1.9.exe)
-[![Скачать для Android TV](https://img.shields.io/badge/Скачать-Android%20TV%201.0.12-6f5cff?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Rtreterasd/FishkaTVapp/releases/download/1.0.12/Fishka-TV-1.0.12-ARMv7-ARM64.apk)
+[![Скачать для Android TV](https://img.shields.io/badge/Скачать-Android%20TV%201.Finalf5cff?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Rtreterasd/FishkaTVapp/releases/download/1.0.12/Fishka-TV-1.0.12-ARMv7-ARM64.apk)
 
 [Все версии и описание релизов](https://github.com/Rtreterasd/FishkaTVapp/releases)
 
